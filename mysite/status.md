@@ -1,1 +1,1 @@
-https://docs.djangoproject.com/en/4.1/intro/tutorial04/#writing-your-first-django-app-part-4
+https://docs.djangoproject.com/en/4.1/intro/tutorial05/
