@@ -1,3 +1,7 @@
+{% load static %} <!--Generates the absolute URL of static files-->
+
+<link rel="stylesheet" href="{% static 'polls/style.css' %}"> <!--Load stylesheet-->
+
 {% if latest_question_list %}
     <ul>
     {% for question in latest_question_list %}
